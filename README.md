@@ -5,5 +5,5 @@ The command is as follows:
 
 ```
 openscan-focus-stack.py path-to-directory-containing-openscan-photos [--outdir] [...focus-stack-args] 
-  #--outdir defaults to a directory called output in the given first argument
+  #--outdir defaults to a directory named 'output' in the given first argument
 ```
